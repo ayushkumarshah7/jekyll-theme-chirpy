@@ -5,6 +5,7 @@ date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 math: true
+permalink: /:year/:month/:title/
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in here.
@@ -13,6 +14,8 @@ This Jekyll template totally compatible with Markdown syntax. Now, let's take a 
 
 ***
 # H1
+
+Hllo
 
 <h2 data-toc-skip>H2</h2>
 
